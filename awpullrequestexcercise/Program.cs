@@ -6,7 +6,7 @@ namespace awpullrequestexcercise
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Testi!");
+            Console.WriteLine("Testi2!");
         }
     }
 }
